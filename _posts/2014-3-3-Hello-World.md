@@ -4,5 +4,7 @@ title: You're up and running!
 ---
 
 [Tinkoff RUB](https://www.tinkoff.ru/rm/partina.lada1/GKfNR77509)
+
 [Tinkoff USD](https://www.tinkoff.ru/rm/partina.lada1/ldnHk14395)
+
 [Tinkoff EUR](https://www.tinkoff.ru/rm/partina.lada1/kTTLT46203)
