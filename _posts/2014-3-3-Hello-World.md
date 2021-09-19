@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doante links
+title: Donate links
 ---
 
 [Tinkoff RUB](https://www.tinkoff.ru/rm/partina.lada1/GKfNR77509)
