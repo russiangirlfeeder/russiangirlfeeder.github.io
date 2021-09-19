@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Doante links
 ---
 
 [Tinkoff RUB](https://www.tinkoff.ru/rm/partina.lada1/GKfNR77509)
